@@ -15,4 +15,5 @@
 
 1. 本项目参考自[这个项目](https://github.com/FengQuanLi/WZCQ)。
 2. 鄙人不才，希望大佬们多多提建议和改进要求，共同完善这个项目。
-3. 没装cudnn可能会报错说张量维度不对
+3. 没装cudnn可能会报错说张量维度不对。
+4. 如果角色不动，需要手动配置operation.json文件，参考[这个链接](https://www.bilibili.com/read/cv18924582/#:~:text=%E6%89%93%E5%BC%80%E6%A8%A1%E6%8B%9F%E5%99%A8%E7%9A%84%E6%8C%89%E9%94%AE,%E7%8E%B0%E5%9C%A8%E7%9A%84XY%E5%9D%90%E6%A0%87%E3%80%82)。
